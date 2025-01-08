@@ -14,3 +14,4 @@ C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\
 C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.exe
 C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.pdb
 C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.FormLocation.resources
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.FormStatistics.resources

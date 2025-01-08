@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\formstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\formstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewentityproject\\formstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62034ED6-4DA6-498E-8E64-D124A787E56A}|oopReviewEntityProject\\oopReviewEntityProject.csproj|solutionrelative:oopreviewentityproject\\formstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormLocation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormLocation.cs",
-              "RelativeDocumentMoniker": "oopReviewEntityProject\\FormLocation.cs",
-              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormLocation.cs [Design]",
-              "RelativeToolTip": "oopReviewEntityProject\\FormLocation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:18:40.338Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormLocation.cs",
-              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormLocation.cs",
-              "RelativeDocumentMoniker": "oopReviewEntityProject\\FormLocation.cs",
-              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormLocation.cs",
-              "RelativeToolTip": "oopReviewEntityProject\\FormLocation.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwDoAAAAoAAAAAAAAAA==",
+              "Title": "FormStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormStatistics.cs",
+              "RelativeDocumentMoniker": "oopReviewEntityProject\\FormStatistics.cs",
+              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormStatistics.cs",
+              "RelativeToolTip": "oopReviewEntityProject\\FormStatistics.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:39:04.606Z",
+              "WhenOpened": "2025-01-08T14:36:57.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\Form1.cs",
-              "RelativeDocumentMoniker": "oopReviewEntityProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\Form1.cs",
-              "RelativeToolTip": "oopReviewEntityProject\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FormStatistics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormStatistics.cs",
+              "RelativeDocumentMoniker": "oopReviewEntityProject\\FormStatistics.cs",
+              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\FormStatistics.cs [Design]",
+              "RelativeToolTip": "oopReviewEntityProject\\FormStatistics.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:02:44.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\Form1.cs",
-              "RelativeDocumentMoniker": "oopReviewEntityProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\Form1.cs [Design]",
-              "RelativeToolTip": "oopReviewEntityProject\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:01:25.294Z",
+              "WhenOpened": "2025-01-08T14:32:08.853Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\Model1.edmx",
-              "RelativeDocumentMoniker": "oopReviewEntityProject\\Model1.edmx",
-              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewEntityProject\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "oopReviewEntityProject\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-01-08T10:19:26.919Z",
-              "EditorCaption": " [Diagram1]"
             }
           ]
         }
