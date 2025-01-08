@@ -1,0 +1,12 @@
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\oopReviewEntityLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\oopReviewEntityLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\oopReviewEntityLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\obj\Debug\oopReviewEntityLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\obj\Debug\oopReviewEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\obj\Debug\oopRevie.B010F45C.Up2Date
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\obj\Debug\oopReviewEntityLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityLayer\obj\Debug\oopReviewEntityLayer.pdb

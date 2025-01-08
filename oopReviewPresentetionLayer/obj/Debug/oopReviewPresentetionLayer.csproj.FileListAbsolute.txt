@@ -1,0 +1,16 @@
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewPresentetionLayer.exe.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewPresentetionLayer.exe
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewPresentetionLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewBusinessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewBusinessLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.Properties.Resources.resources
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.csproj.GenerateResource.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopRevie.6D6D9F02.Up2Date
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.exe
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.pdb

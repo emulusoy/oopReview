@@ -1,0 +1,16 @@
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.Form1.resources
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.Properties.Resources.resources
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.csproj.GenerateResource.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\oopReviewEntityProject.exe.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\oopReviewEntityProject.exe
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\oopReviewEntityProject.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopRevie.F700966B.Up2Date
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.exe
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewEntityProject\obj\Debug\oopReviewEntityProject.FormLocation.resources

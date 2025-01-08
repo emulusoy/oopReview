@@ -1,0 +1,17 @@
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\oopReviewDataAccessLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\oopReviewDataAccessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\oopReviewDataAccessLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\oopReviewEntityLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\oopReviewEntityLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\oopReviewEntityLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopReviewDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopReviewDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopRevie.67E32587.Up2Date
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopReviewDataAccessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopReviewDataAccessLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopReviewDataAccessLayer.Migrations.mig1.resources
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewDataAccessLayer\obj\Debug\oopReviewDataAccessLayer.csproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewBusinessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewBusinessLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewDataAccessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewEntityLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewDataAccessLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewDataAccessLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewEntityLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\bin\Debug\oopReviewEntityLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\obj\Debug\oopReviewBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\obj\Debug\oopReviewBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\obj\Debug\oopRevie.B88FCED5.Up2Date
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\obj\Debug\oopReviewBusinessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewBusinessLayer\obj\Debug\oopReviewBusinessLayer.pdb
