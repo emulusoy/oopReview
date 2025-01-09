@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF29F61-C49D-4A89-AA7F-AB5A2C114EDE}|oopReviewPresentetionLayer\\oopReviewPresentetionLayer.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewpresentetionlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF29F61-C49D-4A89-AA7F-AB5A2C114EDE}|oopReviewPresentetionLayer\\oopReviewPresentetionLayer.csproj|solutionrelative:oopreviewpresentetionlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF29F61-C49D-4A89-AA7F-AB5A2C114EDE}|oopReviewPresentetionLayer\\oopReviewPresentetionLayer.csproj|c:\\users\\mustafa ulusoy\\source\\repos\\oopreview\\oopreviewpresentetionlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AF29F61-C49D-4A89-AA7F-AB5A2C114EDE}|oopReviewPresentetionLayer\\oopReviewPresentetionLayer.csproj|solutionrelative:oopreviewpresentetionlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewPresentetionLayer\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "oopReviewPresentetionLayer\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewPresentetionLayer\\FrmProduct.cs",
+              "RelativeToolTip": "oopReviewPresentetionLayer\\FrmProduct.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:10:13.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewPresentetionLayer\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "oopReviewPresentetionLayer\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\Mustafa ulusoy\\source\\repos\\oopReview\\oopReviewPresentetionLayer\\FrmProduct.cs [Design]",
+              "RelativeToolTip": "oopReviewPresentetionLayer\\FrmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:43:37.937Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

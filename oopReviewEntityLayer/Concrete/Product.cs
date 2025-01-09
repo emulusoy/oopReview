@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,6 +20,9 @@ namespace oopReviewEntityLayer.Concrete
         public virtual Category Category { get; set; }
 
         public List<Order> Orders { get; set; } //Order tablosunda Orders adinda de[er tutalim
+
+        //[NotMapped]
+        //public string CategoryName {  get; set; }
 
     }
 }

@@ -14,3 +14,11 @@ C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\De
 C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopRevie.6D6D9F02.Up2Date
 C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.exe
 C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewDataAccessLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewEntityLayer.dll
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewDataAccessLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewDataAccessLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewEntityLayer.pdb
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\bin\Debug\oopReviewEntityLayer.dll.config
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.FrmCategory.resources
+C:\Users\Mustafa ulusoy\source\repos\oopReview\oopReviewPresentetionLayer\obj\Debug\oopReviewPresentetionLayer.FrmProduct.resources

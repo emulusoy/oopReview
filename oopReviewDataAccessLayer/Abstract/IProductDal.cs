@@ -10,5 +10,7 @@ namespace oopReviewDataAccessLayer.Abstract
     public interface IProductDal : IGenericDal<Product>
         
     {
+
+        List<Object> GetProductsWithCategory();
     }
 }
